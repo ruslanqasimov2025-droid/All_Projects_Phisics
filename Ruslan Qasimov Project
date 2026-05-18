@@ -1,0 +1,27 @@
+1. Creative Electronics Project: 
+Design and implementation of an Automatic Light Activated Relay Circuit using an LDR sensor, BC547 transistors, relay module, resistors, diode, and LED indicators. The project demonstrates how light intensity can automatically control electrical devices through sensor-based switching mechanisms. It was developed to show practical applications of electronic automation systems such as automatic street lights, smart home lighting, and energy-saving control systems. The circuit was simulated and tested to analyze voltage behavior, relay activation, and sensor response under different lighting conditions.
+Designed and Simulated in Proteus
+
+
+2.Document Link :
+https://www.slideshare.net/slideshow/ruslanqasimov_project_documentation-docx/287566311
+
+
+3.Project Video Presentation:
+https://youtu.be/8K21W4_RGrk?si=rJb4cuUV0JrpCVEg
+
+
+4.Explanation of Circuit Components:
+   4.1. About NPN Transistor (BC547) - https://drive.google.com/file/d/1Bzz4WSEIVyPDPKV0nStiLGlcXBrX-a66/view?usp=drivesdk
+
+   4.2. About LDR – Light Dependent Resistor- https://drive.google.com/file/d/1yAnDEEEOZY-R2LisDWTvQFhQMiAJXTbs/view?usp=drivesdk
+
+   4.3. About Relay (OSC-1-DC5) - https://drive.google.com/file/d/13eHmETyC5HOT5851d5iM4syI4aW-295f/view?usp=drivesdk
+
+   4.4. About Diode (1N4148) - https://drive.google.com/file/d/1z-YT4C-8ku8lGODAZvPZd52OjenHsyIX/view?usp=drivesdk
+
+   4.5. About LED – Blue Light Emitting Diode - https://drive.google.com/file/d/1FucpTzeGLmmwaoOpNufHhnj3UkDklj_b/view?usp=drivesdk
+
+   4.6. About Resistors (R1, R2, R3, R4) - https://drive.google.com/file/d/1nOJWAoX2xQqxj7LU4CXFIGkj8dcMxlnE/view?usp=drivesdk
+
+   4.7. About Power Supply (B1 – 5V DC) - https://drive.google.com/file/d/1ArAZxwFAfqFJNDVNr6Z_L8d934Yr61N5/view?usp=drivesdk
